@@ -1,0 +1,42 @@
+{
+  "embed": {
+    "renk": "#00d4ff",
+    "gorsel": "https://images-ext-1.discordapp.net/external/NUsT6t4vWsByqdVHRBqYrqDruCG3YDv_6Y_5IHEY9XM/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/773582512647569409/244e078839c10a618f0fdb7b6f5a13f1.png?format=webp&quality=lossless",
+    "footer": {
+      "metin": "LASHK Ticket",
+      "ikon": "https://images-ext-1.discordapp.net/external/NUsT6t4vWsByqdVHRBqYrqDruCG3YDv_6Y_5IHEY9XM/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/773582512647569409/244e078839c10a618f0fdb7b6f5a13f1.png?format=webp&quality=lossless"
+    }
+  },
+  "kategoriler": [
+    {
+      "id": "klan_sorunlari",
+      "isim": "Klan Sorunları",
+      "emoji": "⚔️"
+    },
+    {
+      "id": "yetkili_sorunlari",
+      "isim": "Yetkili Sorunları",
+      "emoji": "👮"
+    },
+    {
+      "id": "sikayet",
+      "isim": "Şikayet",
+      "emoji": "⚠️"
+    },
+    {
+      "id": "bilgi",
+      "isim": "Bilgi",
+      "emoji": "📋"
+    }
+  ],
+  "ticketKategorisi": "TICKET",
+  "mesajlar": {
+    "ticketOlustur": "🎫 **Ticket Sistemi**\n\n🔥 Destek almak için aşağıdaki menüden bir kategori seçin.",
+    "ticketAcildi": "📋 Ticket açıldı! Yetkili ekibimiz en kısa sürede size yardımcı olacak.",
+    "ticketKapatildi": "🔒 Bu ticket kapatıldı.",
+    "kurulumTamamlandi": "✅ Kurulum başarıyla tamamlandı!",
+    "yetkinizYok": "❌ Bu işlemi yapmak için yetkiniz bulunmuyor!",
+    "kategoriYok": "❌ Ticket kategorisi bulunamadı!",
+    "zatenTicketVar": "❌ Zaten açık bir ticketiniz bulunmaktadır!"
+  }
+}
