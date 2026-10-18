@@ -93,5 +93,9 @@ async function deployCommands() {
     }
 }
 
+client.once('ready', async () => {
+    console.log(`🤖 ${client.user.tag} olarak Discord'a giriş yapıldı!`);
+    await deployCommands();
+});
+
 client.login(process.env.DISCORD_TOKEN);
-deployCommands();
